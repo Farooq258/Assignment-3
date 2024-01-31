@@ -1,0 +1,39 @@
+body {
+    background-color: burlywood;
+}
+
+pre {
+    background-color: rgb(26, 27, 2);
+    text-align: center;
+}
+
+h2 {
+    background-color: chocolate;
+    text-align: center;
+}
+
+div {
+ margin-top: 10px;
+text-align: center;
+background-color: rgb(212, 195, 212); 
+}
+
+button {
+    border-color: rgb(208, 36, 36);
+   border-radius: 2%;
+ display: block;
+ margin: auto;
+    color: rgb(246, 15, 15);
+    background-color: rgb(39, 245, 39);
+}
+hr{
+    background-color: rgb(12, 218, 15);
+    height: 5px;
+}
+
+h3{
+    text-align: center;
+    background-color: coral;
+    color: blue;
+}
+  
